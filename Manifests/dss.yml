@@ -26,7 +26,7 @@ spec:
     metadata:
       labels:
         app: yelp-camp
-    spec:
+    spec: 
       containers:
         - name: yelp-camp-container
           image: sushantpawar25/campa:latest
